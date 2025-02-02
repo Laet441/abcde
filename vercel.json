@@ -11,6 +11,10 @@
             }
         }
     ],
+    "github": {
+        "silent": true,
+        "autoJobCancelation": true
+    },
     "routes": [
         {
             "src": "/(.*)",
